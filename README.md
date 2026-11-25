@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello, World! 🌙
 
-<!--
-**agarza59-lgtm/agarza59-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Where creativity meets code.
 
-Here are some ideas to get you started:
+## ✨ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Arizona State University Media Arts and Sciences
+student and aspiring digital designer and front-end developer.
+
+I'm passionate about combining creativity and technology
+to build thoughtful, visually engaging digital experiences.
+
+## 💜 My Interests
+
+- Front-end development
+- Responsive web design
+- Creative coding
+- Graphic design
+- Photography and digital editing
+
+## 🌱 Currently Learning
+
+- HTML5
+- CSS3
+- JavaScript
+- Git and GitHub
+
+## 🔗 Connect With Me
+
+[CodePen](https://codepen.io/AndreaGarza)
