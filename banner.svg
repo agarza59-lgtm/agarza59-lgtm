@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="400"
+     viewBox="0 0 1200 400">
+<defs>
+    <linearGradient id="lavender"
+        x1="0%" y1="0%"
+        x2="100%" y2="100%">
+
+        <stop offset="0%" stop-color="#EEE4FA"/>
+        <stop offset="100%" stop-color="#B9A0DB"/>
+
+    </linearGradient>
+</defs>
+    <rect width="1200" height="400" fill="url(#lavender)"/>
+
+<text x="600" y="200"
+    text-anchor="middle"
+    font-size="56"
+    fill="white"
+    font-family="georgia">
+    Andrea Garza
+    </text>
+<circle cx="900" cy="120" r="10" fill="white"/>
+<path d="M 220 60
+        A 45 45 0 1 0 220 140
+        A 38 45 0 0 1 220 60 Z"
+        fill="white"/>
+</svg>
