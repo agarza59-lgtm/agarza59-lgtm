@@ -1,3 +1,5 @@
+![Lavender Moon Banner](banner.svg)
+
 # Hello, World! 🌙
 
 ### Where creativity meets code.
